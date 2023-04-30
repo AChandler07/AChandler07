@@ -30,4 +30,3 @@ Find out more about me & feel free to connect with me here:
 
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=AChandler07%2FAChandler07&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=AChandler07%2FAChandler07)
-[cloud_user@eded53bc951c AChandler07]$
