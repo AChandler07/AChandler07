@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-<!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
+My name is Alexandria, but you can call me Alex for short. I am currently focused on switching gears and entering into the world of tech. How did i get here you ask? Well, it took alot of motivation and risks to start. You know what they say, the higher the risk, the greater the reward. In other words, I took a chance to pursue something better and something new for me. In the beginning of April 2023 I enrolled in a program called Level Up in Tech. This program provides the necessary skills and experience such as Linux 🐧, Cloud Infrastructure ☁️, Python 🐍, AWS 🌐, and many more to succeed in the field. Now you get to follow along with me in this journey where the possibilities are endless. As always, thanks for reading. 🥰
 
 Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Broadus%20Palmer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levelupwithbroadus/)](https://www.linkedin.com/in/levelupwithbroadus/)
-[![Medium Badge](https://img.shields.io/badge/Broadus%20Palmer-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)](https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)
-[![Gmail Badge](https://img.shields.io/badge/-Broadus@Levelupintech.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Broadus@Levelupintech.com)](mailto:Broadus@Levelupintech.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Alexandria%20Chandler-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandria-chandler-6792a6240)](https://www.linkedin.com/in/alexandria-chandler-6792a6240)
+[![Medium Badge](https://img.shields.io/badge/Alexandria%20Chandler-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@alexandriachandler/)](https://medium.com/@alexandriachandler/)
+[![Gmail Badge](https://img.shields.io/badge/-alexandriachan127@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexandriachan127@gmail.com)](mailto:alexandriachan127@gmail.com)
 
 ## ⚡ Technologies
 
@@ -25,8 +25,9 @@ Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=LevelUpInTech&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevelUpInTech&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=AChandler07&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AChandler07&hide=TeX&layout=compact)
 
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=LevelUpInTech%2FLevelUpInTech&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=LevelUpInTech%2FLevelUpInTech)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=AChandler07%2FAChandler07&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=AChndler07%2FAChandler07)
+[cloud_user@eded53bc951c AChandler07]$
