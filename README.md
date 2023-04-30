@@ -29,4 +29,5 @@ Find out more about me & feel free to connect with me here:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AChandler07&hide=TeX&layout=compact)
 
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=AChandler07%2FAChandler07&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=AChndler07%2FAChandler07)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=AChandler07%2FAChandler07&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=AChandler07%2FAChandler07)
+[cloud_user@eded53bc951c AChandler07]$
